@@ -2,4 +2,4 @@
 Music Beatmaker Web App <br> 
 Preview: <br>
 <img src="TapMusic.png" alt="TapMusic Preview"/>
-Inspired by Youtube Video Tutorial
+As Inspired by Youtube Video Tutorial
